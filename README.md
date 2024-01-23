@@ -21,7 +21,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,django,fastapi,redis,rabbitmq,git,docker,postman" />
+    <img src="https://skillicons.dev/icons?i=python,c#,godot,django,fastapi,redis,rabbitmq,git,docker,postman" />
     <img src="https://skillicons.dev/icons?i=vscode,sqlite,mysql,postgresql,linux,bash,html,css,illustrator,photoshop" /><br>
 </div>
 
