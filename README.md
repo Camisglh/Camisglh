@@ -22,7 +22,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,django,fastapi,redis,rabbitmq,git,docker,postman" />
-    <img src="https://skillicons.dev/icons?i=vscode,sqlite,mysql,postgresql,linux,bash,html,css,illustrator,photoshop" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,sqlite,mysql,postgresql,godot,linux,bash,html,css,illustrator,photoshop" /><br>
 </div>
 
 <br/>
