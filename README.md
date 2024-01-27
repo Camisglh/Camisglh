@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=print+(+Hello!+👋);print+(+I'm+Camil!+);" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=print+(+Hello!+👋+);print+(+I'm+Camil!+);" />
 </h1>
 
 <h3 align="center">Backend Developer from the North 🇫🇮🇸🇪🇳🇴🇮🇸🇩🇰🇷🇺🇨🇦</h3>
@@ -22,7 +22,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,django,fastapi,redis,rabbitmq,git,docker,postman" />
-    <img src="https://skillicons.dev/icons?i=vscode,sqlite,mysql,postgresql,godot,linux,bash,html,css,illustrator,photoshop" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,sqlite,mysql,postgresql,linux,bash,html,css,illustrator,photoshop" /><br>
 </div>
 
 <br/>
