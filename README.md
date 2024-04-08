@@ -21,8 +21,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,ruby" />
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,docker,redis,rabbitmq,celery,websocket" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,ruby,javascript" />
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,docker,redis,rabbitmq,kafka" /><br>
 </div>
 
 <br/>
