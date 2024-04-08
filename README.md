@@ -22,8 +22,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ruby,bash,python,cpp,js" /><br>
-    <img src="https://skillicons.dev/icons?i=django,flask,fastapi,rails,nodejs,react,git,github,html,css,firebase,postgresql,mysql,sqlite,docker,redis,rabbitmq,kafka,neovim,pycharm,rider,visualstudio,unity,godot,windows,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=django,flask,fastapi,rails,nodejs,react,vue,git,github,html,css,firebase,postgresql,mysql,sqlite,docker,redis,rabbitmq,kafka,neovim,pycharm,rider,webstorm,visualstudio,notion,obsidian,postman,unity,godot,windows,linux,arch,ubuntu,debian" /><br>
 </div>
-
 <br/>
 <hr/>
