@@ -1,19 +1,16 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+world!+👋;+I'm+Camil!;" />
 </h1>
-
+<br/>
 <p align="">☁️ My name is Kamil. Driven by a passion for web development, I have dedicated the last 2 years to building dynamic websites and innovative applications in Python. I believe the key to success lies in continuous learning, adaptability and working closely with the team.</p>
 
 <br/>
 
-<div align="center">
- 
- 🔭 I'm currently working on a **2D roguelike game**
- 
- 🌱 I’m currently learning **Docker**
-
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
+<div align="">
+ What I've been up to:
+💡  Working on creating a roguelike game in python.
+🔭  Studying Ruby and Rails.
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs.**
  </div>
  
  <hr/>
