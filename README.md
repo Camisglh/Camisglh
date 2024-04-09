@@ -7,10 +7,10 @@
 <br/>
 
 <div align="">
-#### What I've been up to:
-- 💡&nbsp;  Working on creating a roguelike game in python.
-- 🔭&nbsp;  Studying Ruby and Rails.
-- ⚡&nbsp; Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs.**
+<h3>What I've been up to:</h3> <br/>
+<p>- 💡&nbsp;  Working on creating a roguelike game in python.</p>
+<p>- 🔭&nbsp;  Studying Ruby and Rails.</p>
+<p>- ⚡&nbsp; Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs.**</p>
  </div>
  
  <hr/>
