@@ -22,6 +22,7 @@
 </div>
 <br/>
 <hr/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Camisglh&theme=catppuccin-mocha)](https://git.io/streak-stats)
 
 ---
 #### Let's get in touch:
