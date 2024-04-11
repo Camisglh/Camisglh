@@ -21,8 +21,6 @@
     <img src="https://skillicons.dev/icons?i=python,bash,django,flask,fastapi,mysql,postgresql,sqlite,mongodb,firebase,redis,rabbitmq,kafka,pycharm,neovim,postman,obsidian" /><br>
 </div>
 <br/>
-<hr/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Camisglh&theme=catppuccin-mocha)](https://git.io/streak-stats)
 
 ---
 #### Let's get in touch:
