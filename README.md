@@ -25,4 +25,4 @@
 ---
 #### Let's get in touch:
 
-📫&nbsp;  **Let's connect!** →  [Telegram](https://t.me/ac_dccc)
+📫&nbsp;  **Let's connect!** → 
