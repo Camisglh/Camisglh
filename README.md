@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+world!+👋;+I'm+Camil!;" />
 </h1>
 <br/>
-♦️&nbsp; My name is Kamil. Driven by a passion for web development, I have spent the last 2 years building dynamic websites and innovative applications in Ruby and Python. I believe the key to success lies in continuous learning, adaptability and close collaboration with the team. ♦️
+♦️&nbsp; My name is Camil. Driven by a passion for web development, I have spent the last 2 years building dynamic websites and innovative applications in Ruby and Python. I believe the key to success lies in continuous learning, adaptability and close collaboration with the team. ♦️
 
 <br/>
 
