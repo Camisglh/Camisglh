@@ -18,7 +18,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ruby,cpp,python,bash,rails,django,fastapi,react,vue,mysql,postgresql,sqlite,mongodb,firebase,redis,rabbitmq" /><br>
+    <img src="https://skillicons.dev/icons?i=ruby,cpp,python,bash,rails,django,fastapi,react,vue,mysql,postgresql,sqlite,mongodb,firebase,redis,rabbitmq,git,docker,postman,figma" /><br>
 </div>
 <br/>
 
